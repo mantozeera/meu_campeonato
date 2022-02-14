@@ -1,6 +1,4 @@
-# Título do projeto
-
-Meu Campeonato
+# Meu Campeonato
 
 ## 🚀 Começando
 
